@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">さぼりチェッカー</string>
+
+
+    <string name="comment1">まだあまり使ってませんね\n良い傾向です</string>
+    <string name="comment2">本日の進捗はいかがですか？\nやるべきことは終わらせましょう。</string>
+    <string name="comment3">少しやりすぎです。\n気をつけましょう。</string>
+    <string name="comment4">廃人ですか？</string>
+
+</resources>

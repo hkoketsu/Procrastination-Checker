@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Procrastination Checker</string>
+
+
+    <string name="comment1">Nice!\nKeep having a productive life!</string>
+    <string name="comment2">Have you done your work?\nDo not spend too much on it.</string>
+    <string name="comment3">You wasted time too much."</string>
+    <string name="comment4">Seriously...?</string>
+
+
+</resources>
